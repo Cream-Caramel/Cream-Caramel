@@ -17,8 +17,23 @@
   
 # For more link:
   
-- Contact me： [**Piercing Light#9264**](http://discordapp.com/users/404569245217718272)
+-💬 The way to reach me： [**Piercing Light#9264**](http://discordapp.com/users/404569245217718272)
+  
+<!--
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/xtaiwanpinglord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xtaiwanpinglord" height="30" width="40" /></a>
+<a href="https://fb.com/xtaiwanpinglord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xtaiwanpinglord" height="30" width="40" /></a>
+<a href="https://instagram.com/xtaiwanpinglord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xtaiwanpinglord" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/xtaiwanpinglord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xtaiwanpinglord" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/xtaiwanpinglord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xtaiwanpinglord" height="30" width="40" /></a>
+<a href="https://kaggle.com/xtaiwanpinglord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="xtaiwanpinglord" height="30" width="40" /></a>
+</p>
 
+<p align="center">
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?langs_count=6&username=Revenger-A&show_icons=true&theme=vue-dark&layout=compact&hide=css,html,javascript&count_private=true" alt="Revenger-A />
+<br>
+-->
   
   
   
