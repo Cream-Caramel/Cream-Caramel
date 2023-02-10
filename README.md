@@ -5,8 +5,9 @@
 <h3 align="center">Developer of <a href="https://gashbyte.github.io/ICoraIndex/" target="blank">XFP-Studio</h3>
 
 <br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Revenger-A&theme=vue-dark&mode=weekly" alt="xtaiwanpinglord" />
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Revenger-A&show_icons=true&theme=vue-dark&count_private=true" alt="xtaiwanpinglord" />
 <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?langs_count=6&username=xTaiwanPingLord&show_icons=true&theme=radical&layout=compact&hide=css,html,javascript&count_private=true" alt="xtaiwanpinglord"
-<br>
 <br>
 <br>
 <br>
