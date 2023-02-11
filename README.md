@@ -11,16 +11,8 @@
 <img align="center" src="https://github-readme-stats-git-master-revenger-a.vercel.app/api?username=Revenger-A&show_icons=true&theme=radical&count_private=true" alt=" Revenger-A" />
 <img align="center" src="https://github-readme-stats-git-master-revenger-a.vercel.app/api/top-langs?langs_count=6&username=Revenger-A&theme=radical&layout=compact&hide=css,html,javascript,ShaderLab,HLSL,Python&count_private=true" alt="Revenger-A" />
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-  
-  
+
+
   
   
 # What is the world?  
