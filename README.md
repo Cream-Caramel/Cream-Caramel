@@ -2,7 +2,6 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Revenger-A&label=Profile%20views&color=1ea97f&style=flat" alt="Revenger-A" /></p>
 
-<h2 align="center">Developer of <a href="https://gashbyte.github.io/ICoraIndex/" target="blank">XFP-Studio</h2>
 
   
   
