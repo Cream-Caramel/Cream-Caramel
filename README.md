@@ -20,11 +20,12 @@
 - 2023.02.10 New world coming.
 - 1-2
 - 2023.03.16
-  
+<!--  
 # For more link:
   
 -💬 The way to reach me： [**Piercing Light#9264**](http://discordapp.com/users/404569245217718272)
-  
+-->
+
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
